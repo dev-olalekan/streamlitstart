@@ -33,3 +33,5 @@ st.html(
 
 
 st.divider()
+
+st.image("./static/sunrise.avif", caption="Sunrise by the mountains")
